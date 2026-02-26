@@ -70,8 +70,3 @@ Optional: R or Python dashboards for interactive exploration.
 ⚡ How to Use / Run
 
 This is a descriptive/analytical project — no code execution is required.
-
-
-This is a descriptive/analytical project — no code execution is required.
-
-Optional: For interactivity, the analysis can be converted into a Shiny app or Python dashboard to explore messages and interpretations dynamically.
