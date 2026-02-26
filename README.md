@@ -4,9 +4,9 @@ Authors: Paulina Papież, Julia Bugielska
 
 Project Overview
 
-This project analyzes professional communication using the Four-Sides Model (Four Ears) by Friedemann Schulz von Thun. We examine two real-life workplace messages to explore how a single statement can be interpreted differently depending on which “side” or “ear” the recipient uses.
+This project analyzes professional communication using the Four-Sides Model (Four Ears) by Friedemann Schulz von Thun. We examine two real-life workplace messages to show how a single statement can be interpreted differently depending on which “side” or “ear” the recipient focuses on.
 
-The analysis focuses on:
+The analysis focuses on four key dimensions:
 
 Factual content – What is being said?
 
@@ -32,7 +32,8 @@ Relationship: Respects hierarchy; careful tone.
 
 Appeal: Implicit request for support, guidance, or deadline extension.
 
-Recipient Interpretation: Can be seen as a simple update, a call for help, or (mis)interpreted as lack of commitment.
+Recipient Interpretation:
+Can be seen as a simple update, a call for help, or (mis)interpreted as lack of commitment.
 
 Message 2
 
@@ -49,11 +50,12 @@ Relationship: Builds positive rapport and respect.
 
 Appeal: Encourages continuation of high-quality work.
 
-Recipient Interpretation: Recognized, motivated, and confident in future tasks.
+Recipient Interpretation:
+Recognized, motivated, and confident in future tasks.
 
 Summary
 
-Even short messages can carry multiple layers of meaning. The Four-Sides Model helps:
+Even short messages can carry multiple layers of meaning. The Four-Sides Model helps to:
 
 Understand why misunderstandings occur despite seemingly clear communication.
 
@@ -63,15 +65,14 @@ Improve clarity and empathy in professional interactions.
 
 Technologies / Tools
 
-Analysis performed manually and documented in structured text.
+Manual analysis documented in structured text.
 
-Optional visualization or interactive dashboards can be added in R or Python if needed.
+Optional: visualization or interactive dashboards can be implemented in R or Python.
 
 How to Use / Run
 
 This is a descriptive/analytical project — no code execution is required.
 
-For additional interactivity, consider converting this analysis into a Shiny app or Python dashboard to allow users to explore messages and interpretations dynamically.
 This is a descriptive/analytical project — no code execution is required.
 
-For additional interactivity, consider converting this analysis into a Shiny app or Python dashboard to allow users to explore messages and interpretations dynamically.
+Optional: For added interactivity, the analysis can be converted into a Shiny app or Python dashboard to explore messages and interpretations dynamically.
