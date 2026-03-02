@@ -65,8 +65,3 @@ Improve clarity and empathy in professional interactions.
 
 Manual analysis documented in structured text.
 
-Optional: R or Python dashboards for interactive exploration.
-
-⚡ How to Use / Run
-
-This is a descriptive/analytical project — no code execution is required.
